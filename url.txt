@@ -1,0 +1,2 @@
+URL for scraping:
+https://www.tomtom.com/traffic-index/ranking/

@@ -1,0 +1,501 @@
+Rank,City,Country,Congestion Percentage,Congestion Rank,10KM Avg Travel (min),Hour Lost Per Year,Change from 2023 (sec)
+260,Santander,Spain,20,415,18,35,0
+472,"Jacksonville, FL",United States of America,20,411,10,26,10
+184,Nakhon Ratchasima,Thailand,33,144,20,65,0
+221,Cartagena,Spain,20,419,19,35,0
+193,Cambridge,United Kingdom,36,82,20,81,20
+273,Calgary,Canada,23,367,18,49,40
+407,"Tampa, FL",United States of America,32,164,13,51,20
+410,Rennes,France,29,228,13,57,20
+14,Manila,Philippines,42,27,32,127,-30
+23,Hiroshima,Japan,43,21,31,114,10
+225,Wiesbaden,Germany,31,197,19,56,-70
+497,Amersfoort,Netherlands,22,384,9,24,10
+392,"Providence, RI",United States of America,31,189,14,53,70
+278,Basel,Switzerland,28,273,17,49,30
+125,"Gdansk, Gdynia and Sopot",Poland,35,95,23,87,20
+455,"Cincinnati, KY",United States of America,17,449,11,22,20
+4,Pune,India,34,128,33,108,-60
+66,Sao Paulo,Brazil,42,30,27,111,0
+480,"Akron, OH",United States of America,12,484,10,13,10
+33,Buenos Aires,Argentina,29,231,30,90,0
+303,Bari,Italy,28,268,17,54,-10
+491,Sabah Al Salem,Kuwait,13,480,10,15,10
+170,Aalborg,Denmark,27,291,21,62,0
+63,Marseille,France,31,195,27,93,30
+396,Katowice,Poland,29,246,14,44,30
+362,Angers,France,23,365,15,40,10
+201,Leeds,United Kingdom,27,290,20,57,20
+456,Zwolle,Netherlands,23,375,11,26,10
+462,"Bakersfield, CA",United States of America,22,386,11,22,-30
+117,Halifax,Canada,30,217,23,83,50
+500,"Thousand Oaks, CA",United States of America,18,446,8,15,0
+416,Bochum,Germany,32,172,13,46,50
+180,Lausanne,Switzerland,28,257,21,71,20
+139,Kota Bharu,Malaysia,34,121,22,60,-20
+250,Salvador,Brazil,37,75,19,70,10
+334,Bratislava,Slovakia,32,176,16,59,20
+304,Braga,Portugal,25,332,17,59,0
+468,"Birmingham, AL",United States of America,19,430,10,25,0
+323,Helsingborg,Sweden,19,427,16,31,-20
+279,Granada,Spain,22,389,17,43,10
+24,Bordeaux,France,33,145,31,113,0
+299,Palma de Mallorca,Spain,25,320,17,49,0
+53,Palembang,Indonesia,41,33,27,94,30
+238,Stockholm Metropolitan Area,Sweden,27,288,19,69,20
+83,Copenhagen,Denmark,26,301,26,82,10
+235,Brisbane,Australia,29,239,19,71,10
+105,Krakow,Poland,41,34,24,98,-20
+298,Bielsko-Biala,Poland,29,235,17,52,10
+366,Newcastle-Sunderland,United Kingdom,20,418,15,26,0
+84,Lodz,Poland,48,7,26,110,20
+189,Birmingham,United Kingdom,38,66,20,89,40
+485,"Council Bluffs, IA",United States of America,11,491,10,12,0
+280,Al Ain,United Arab Emirates,12,485,17,22,30
+40,Bogota,Colombia,45,17,29,119,10
+253,Yokohama,Japan,28,272,18,47,10
+424,Padua,Italy,23,363,13,37,20
+79,Leon,Mexico,28,260,26,71,0
+69,Vancouver,Canada,35,96,27,86,50
+352,Fujairah,United Arab Emirates,12,490,15,15,0
+311,Clermont-Ferrand,France,31,191,16,53,20
+317,Hamilton,Canada,21,398,16,39,40
+313,"Boston, MA",United States of America,30,208,16,62,20
+18,Hyderabad,India,28,274,31,85,0
+231,Reims,France,27,283,19,53,30
+461,"Detroit, MI",United States of America,17,451,11,20,10
+467,"Salt Lake City, UT",United States of America,18,444,10,22,0
+258,Dundee,United Kingdom,35,90,18,54,10
+186,Gold Coast,Australia,33,135,20,60,20
+192,Genoa,Italy,30,207,20,64,20
+158,Gijon,Spain,18,442,21,36,-10
+285,Kuala Lumpur,Malaysia,28,258,17,68,-10
+148,Adelaide,Australia,35,105,22,85,10
+251,Auckland,New Zealand,31,196,18,73,10
+397,"Buffalo, NY",United States of America,15,468,14,20,10
+81,Valencia,Spain,24,359,26,62,40
+228,Avignon,France,32,151,19,67,0
+124,Bydgoszcz,Poland,38,67,23,85,-30
+478,Middlesbrough,United Kingdom,25,328,10,30,10
+103,Prague,Czechia,39,52,24,92,50
+421,Klang,Malaysia,17,448,13,27,-10
+390,"Portland, OR",United States of America,28,259,14,46,10
+195,"Honolulu, HI",United States of America,34,125,20,73,10
+306,Antwerp,Belgium,40,47,16,67,30
+119,Antalya,Turkey,34,111,23,85,-10
+265,Konya,Turkey,28,261,18,50,-20
+196,Reading,United Kingdom,37,81,20,73,30
+93,Hamburg,Germany,34,113,25,81,50
+490,"Winston-Salem, NC",United States of America,14,476,10,15,10
+51,Turin,Italy,33,132,28,99,20
+332,Metz,France,26,318,16,44,-10
+128,Le Havre,France,26,303,23,54,10
+213,Valladolid,Spain,18,437,20,54,30
+234,A Coruna,Spain,19,423,19,40,20
+8,Davao City,Philippines,49,3,32,136,-30
+130,Osaka,Japan,32,158,22,66,20
+175,Rio de Janeiro,Brazil,39,54,21,78,-30
+387,"Denver, CO",United States of America,27,286,14,44,10
+76,Nagoya,Japan,34,130,26,74,20
+140,Tallinn,Estonia,34,117,22,82,10
+48,Rosario,Argentina,26,302,28,70,-10
+26,Caloocan,Philippines,41,39,30,111,-20
+187,Vigo,Spain,18,438,20,37,20
+223,Brighton and Hove,United Kingdom,35,102,19,67,10
+293,Cadiz,Spain,14,470,17,26,10
+233,Bialystok,Poland,31,185,19,60,0
+90,Jakarta,Indonesia,43,25,25,108,10
+55,Medellin,Colombia,43,24,27,116,-20
+360,"Charleston, SC",United States of America,26,313,15,38,20
+442,"Baton Rouge, LA",United States of America,29,240,12,38,20
+340,San Sebastian,Spain,18,445,16,28,10
+35,Rome,Italy,35,97,29,103,30
+121,Warsaw,Poland,34,112,23,90,-40
+242,Ghent,Belgium,26,293,19,53,30
+92,Nice,France,29,237,25,84,40
+343,"Allentown, PA",United States of America,22,381,16,34,20
+345,Port Louis,Mauritius,39,58,15,66,-220
+16,Arequipa,Peru,47,11,32,125,-10
+220,Edmonton,Canada,21,397,19,50,30
+378,Kitchener,Canada,18,443,14,26,20
+212,Malaga,Spain,21,406,20,45,10
+288,Inverness,United Kingdom,30,216,17,45,10
+329,"Los Angeles, CA",United States of America,43,20,16,74,20
+164,Ipoh,Malaysia,26,306,21,51,10
+29,Ha Noi,Vietnam,33,149,30,115,30
+409,Arnhem,Netherlands,28,254,13,43,10
+302,Stoke-on-Trent,United Kingdom,33,148,17,60,30
+296,Livorno,Italy,24,344,17,38,0
+98,Gaziantep,Turkey,31,192,24,65,-10
+226,Salto,Uruguay,10,493,19,18,40
+310,"Seattle, WA",United States of America,31,188,16,53,30
+346,Tauranga,New Zealand,30,220,15,50,-20
+44,Wroclaw,Poland,39,59,28,107,-20
+370,Karlsruhe,Germany,25,336,15,39,-10
+114,Stuttgart,Germany,28,262,23,65,30
+415,Tilburg,Netherlands,24,356,13,34,10
+239,Giza,Egypt,15,465,19,33,-80
+322,Gothenburg,Sweden,21,408,16,50,-10
+320,Toulouse,France,27,276,16,65,10
+264,Johannesburg,South Africa,32,167,18,56,10
+417,Bayonne,France,29,241,13,43,10
+56,Florence,Italy,35,101,27,101,10
+85,Porto Alegre,Brazil,42,26,26,104,30
+106,Cape Town,South Africa,36,85,23,72,40
+465,"Louisville, KY",United States of America,23,373,10,24,0
+224,Kobe,Japan,31,203,19,51,0
+129,Winnipeg,Canada,26,308,23,74,20
+45,Paris,France,30,213,28,101,20
+379,Saint-Etienne,France,24,343,14,39,10
+399,Da Nang,Vietnam,11,492,14,16,50
+475,"Memphis, AR",United States of America,14,473,10,15,0
+357,Faro,Portugal,19,421,15,38,20
+476,"Wichita, KS",United States of America,13,482,10,12,0
+380,"Greenville, GA",United States of America,25,326,14,35,10
+444,Laqţah,Qatar,9,495,12,11,-20
+248,"Columbia, SC",United States of America,23,361,19,42,10
+174,Mannheim,Germany,26,310,21,52,20
+474,"Sacramento, CA",United States of America,24,345,10,30,10
+60,Montevideo,Uruguay,25,331,27,64,50
+315,Apeldoorn,Netherlands,32,163,16,47,0
+185,Kaunas,Lithuania,35,99,20,72,10
+438,"Indianapolis, IN",United States of America,18,436,12,30,0
+289,Hobart,Australia,25,337,17,52,10
+400,Al Ahsa,Saudi Arabia,9,496,14,13,0
+256,Tartu,Estonia,23,369,18,39,0
+199,Belfast,United Kingdom,45,15,20,88,40
+452,"Colorado Springs, CO",United States of America,20,414,11,23,0
+27,Sendai,Japan,43,22,30,111,0
+496,"Newark, DE",United States of America,21,396,9,20,10
+257,Las Palmas,Spain,24,340,18,44,20
+150,Alexandria,Egypt,17,455,22,35,-30
+402,Reggio Emilia,Italy,27,292,13,45,10
+459,Duisburg,Germany,32,166,11,38,-20
+471,Den Bosch,Netherlands,29,238,10,38,20
+389,Darwin,Australia,16,459,14,28,10
+20,Cartagena,Colombia,40,40,31,117,-20
+365,Exeter,United Kingdom,37,79,15,56,20
+371,"McAllen, TX",United States of America,25,322,15,36,-10
+17,Mexico City,Mexico,52,1,31,152,60
+309,Bologna,Italy,33,137,16,65,60
+486,"San Antonio, TX",United States of America,18,439,10,26,0
+112,Nuremberg,Germany,40,42,23,84,10
+115,Riga,Latvia,35,93,23,94,-90
+292,Haarlem,Netherlands,29,227,17,49,10
+328,Ras Al Khaimah,United Arab Emirates,12,488,16,17,10
+367,Aachen,Germany,31,178,15,46,-40
+71,Port Said,Egypt,9,498,26,30,0
+12,Bandung,Indonesia,48,8,32,108,30
+6,Kyoto,Japan,39,60,33,95,20
+80,Zurich,Switzerland,33,133,26,94,10
+134,Varna,Bulgaria,35,104,22,80,0
+355,"Baltimore, MD",United States of America,22,383,15,43,60
+460,Al Baha,Saudi Arabia,7,500,11,7,-10
+426,Leuven,Belgium,24,355,13,38,20
+359,Stavanger,Norway,18,441,15,39,10
+466,"Grand Rapids, MI",United States of America,17,456,10,20,20
+9,Trujillo,Peru,34,119,32,102,30
+94,Liverpool,United Kingdom,35,103,25,86,50
+394,"Nashville, TN",United States of America,26,295,14,43,20
+141,Istanbul,Turkey,41,35,22,96,20
+492,"High Point, NC",United States of America,15,466,10,14,0
+294,Manama,Bahrain,21,409,17,34,-80
+138,Pretoria,South Africa,34,115,22,71,0
+312,Cordoba,Spain,16,463,16,27,10
+167,Nancy,France,26,309,21,63,30
+331,Waterloo,Canada,19,425,16,31,20
+54,Curitiba,Brazil,35,109,27,107,20
+425,Bergen,Norway,14,471,13,27,20
+423,Kortrijk,Belgium,28,263,13,42,20
+165,Seville,Spain,20,417,21,54,0
+470,"Phoenix, AZ",United States of America,24,360,10,32,10
+377,Luxembourg,Luxembourg,33,142,14,52,0
+211,Nijmegen,Netherlands,27,282,20,51,0
+209,Taoyuan,Taiwan,32,153,20,73,20
+78,Frankfurt am Main,Germany,30,215,26,80,30
+495,"Richmond, VA",United States of America,12,487,9,17,0
+86,Nairobi,Kenya,38,69,26,94,10
+274,Dubai,United Arab Emirates,25,339,18,46,70
+262,Sharjah,United Arab Emirates,29,232,18,60,70
+67,Milan,Italy,33,146,27,100,20
+263,Augsburg,Germany,29,230,18,51,20
+50,Ernakulam,India,32,175,28,88,60
+488,Espoo,Finland,12,489,10,12,10
+439,"Albany, NY",United States of America,19,424,12,21,10
+3,Bengaluru,India,38,64,34,117,50
+198,Southampton,United Kingdom,38,68,20,77,90
+74,Budapest,Hungary,46,13,26,110,60
+261,Bremen,Germany,35,107,18,57,0
+68,Poznan,Poland,40,44,27,106,10
+446,"Worcester, MA",United States of America,25,335,12,32,10
+484,"Dayton, OH",United States of America,12,483,10,13,10
+445,"Greensboro, NC",United States of America,15,464,12,18,0
+161,Bangkok,Thailand,50,2,21,96,20
+118,Sydney,Australia,28,255,23,75,-10
+62,Tokyo,Japan,30,205,27,82,40
+286,Coimbra,Portugal,23,374,17,52,20
+395,Charleroi,Belgium,21,393,14,32,20
+88,Leipzig,Germany,37,74,25,85,20
+241,Ecatepec,Mexico,28,270,19,45,40
+70,Surabaya,Indonesia,31,201,26,76,10
+182,Brno,Czechia,46,14,21,92,50
+375,Ravenna,Italy,24,346,14,39,20
+326,Quebec,Canada,25,327,16,49,20
+173,Rouen,France,31,200,21,79,20
+229,Gaborone,Botswana,32,162,19,68,0
+163,Christchurch,New Zealand,32,159,21,77,20
+159,Valletta,Malta,38,65,21,85,-10
+382,Eindhoven,Netherlands,29,225,14,47,20
+200,Dunedin,New Zealand,26,314,20,49,10
+7,Lima,Peru,47,9,33,155,90
+361,Parma,Italy,24,357,15,39,10
+441,"El Paso, NM",United States of America,18,434,12,21,20
+123,Glasgow,United Kingdom,31,186,23,73,10
+153,Aarhus,Denmark,30,210,22,68,30
+244,Hamilton,New Zealand,26,304,19,55,10
+216,Porto,Portugal,34,126,19,91,20
+77,Sofia,Bulgaria,39,53,26,104,20
+276,Kayseri,Turkey,24,358,18,36,-10
+157,Cologne,Germany,29,244,21,62,40
+494,"Oklahoma City, OK",United States of America,16,458,10,19,0
+155,Odense,Denmark,27,279,21,59,10
+493,"Ventura, CA",United States of America,23,371,10,21,10
+342,Rotterdam,Netherlands,30,212,16,52,30
+330,"Boise, ID",United States of America,26,312,16,37,10
+290,Murcia,Spain,21,401,17,43,10
+351,Canberra,Australia,22,390,15,44,0
+479,"Albuquerque, NM",United States of America,19,422,10,23,10
+368,Taranto,Italy,21,405,15,34,-20
+437,Kajang,Malaysia,23,362,12,41,10
+204,Kassel,Germany,36,88,20,64,0
+135,Szczecin,Poland,38,70,22,84,0
+372,"Oxnard, CA",United States of America,28,252,15,37,20
+369,Verona,Italy,31,193,15,45,20
+436,"Tucson, AZ",United States of America,22,392,12,26,0
+58,Edinburgh,United Kingdom,40,49,27,94,20
+206,Singapore,Singapore,29,234,20,63,10
+498,"Mesa, AZ",United States of America,16,460,9,17,0
+64,Belo Horizonte,Brazil,39,57,27,106,20
+217,Doha,Qatar,19,428,19,34,-10
+336,Dijon,France,29,248,16,51,10
+419,Ipswich,United Kingdom,29,226,13,38,10
+482,"Knoxville, TN",United States of America,17,454,10,20,10
+430,"Fort Myers, FL",United States of America,32,152,12,40,10
+2,Kolkata,India,32,169,34,110,10
+335,Groningen,Netherlands,32,161,16,44,20
+227,Bursa,Turkey,31,184,19,66,-10
+137,Banqiao,Taiwan,27,277,22,67,30
+255,Monchengladbach,Germany,25,334,18,41,30
+215,Johor Bahru,Malaysia,24,348,19,49,0
+22,Bucharest,Romania,48,5,31,150,20
+203,Keelung,Taiwan,23,366,20,45,20
+156,Dresden,Germany,35,108,21,66,20
+41,Cali,Colombia,43,23,29,113,-30
+283,Kiel,Germany,35,94,17,53,60
+15,Medan,Indonesia,40,46,32,111,10
+143,Trieste,Italy,40,48,22,63,-20
+341,Reggio Calabria,Italy,26,300,16,43,10
+95,Toronto,Canada,31,180,25,77,80
+146,Swansea,United Kingdom,37,80,22,75,20
+52,Jaipur,India,32,177,28,83,20
+246,Durban,South Africa,36,83,19,57,30
+89,Graz,Austria,37,77,25,86,50
+386,Utrecht,Netherlands,29,242,14,43,30
+451,"Saint Louis, MO",United States of America,16,461,11,21,0
+176,Wellington,New Zealand,29,229,21,69,10
+373,Kuwait CIty,Kuwait,24,347,15,34,-10
+72,Taichung,Taiwan,29,247,26,71,20
+321,Oviedo,Spain,22,380,16,33,-30
+245,Freiburg,Germany,28,269,19,47,20
+13,Tainan,Taiwan,28,256,32,76,60
+458,"Anaheim, CA",United States of America,26,307,11,34,10
+188,Naples,Italy,36,87,20,83,-10
+240,Uppsala,Sweden,20,412,19,44,10
+431,"Hartford, NY",United States of America,13,479,12,15,0
+160,Pamplona,Spain,19,420,21,40,-80
+61,Cordoba,Argentina,23,364,27,60,10
+433,"Minneapolis, MN",United States of America,19,429,12,29,10
+91,Recife,Brazil,45,18,25,108,0
+57,Naha,Japan,41,36,27,109,40
+469,"Raleigh, NC",United States of America,18,435,10,23,10
+151,Izmir,Turkey,41,31,22,94,-10
+412,"Dallas, TX",United States of America,30,224,13,47,10
+364,"Las Vegas, NV",United States of America,23,377,15,37,0
+443,"San Jose, CA",United States of America,29,245,12,42,10
+30,Brussels,Belgium,33,141,30,118,30
+38,Vienna,Austria,30,206,29,95,50
+318,Cagliari,Italy,24,353,16,42,0
+348,Dammam,Saudi Arabia,18,431,15,35,-10
+414,Bruges,Belgium,22,387,13,29,0
+237,"New Haven, CT",United States of America,24,341,19,47,20
+21,Barcelona,Spain,26,299,31,87,50
+319,Portsmouth,United Kingdom,35,91,16,52,30
+473,"Fort Worth, TX",United States of America,22,391,10,27,0
+254,Preston,United Kingdom,34,120,18,60,20
+99,Leicester,United Kingdom,39,51,24,97,20
+464,"Kansas City, MO",United States of America,14,474,11,16,0
+349,Liege,Belgium,26,305,15,46,20
+144,Melbourne,Australia,34,127,22,84,20
+447,Lens,France,17,447,11,23,0
+197,Messina,Italy,32,156,20,63,-20
+230,"Philadelphia, PA",United States of America,22,378,19,46,40
+162,Cork,Ireland,41,38,21,88,0
+384,Breda,Netherlands,25,329,14,39,20
+42,Taipei,Taiwan,33,140,29,97,40
+347,"Pittsburgh, PA",United States of America,28,271,15,50,20
+272,Limerick,Ireland,39,61,18,65,20
+440,Wuppertal,Germany,32,171,12,37,10
+339,Linz,Austria,24,351,16,44,-20
+374,Grenoble,France,31,190,14,54,10
+457,"Columbus, OH",United States of America,17,450,11,21,10
+39,Mumbai,India,35,110,29,103,-20
+277,Strasbourg,France,26,297,17,53,10
+314,Le Mans,France,29,249,16,47,0
+489,"Fresno, CA",United States of America,20,416,10,20,0
+49,Berlin,Germany,29,250,28,84,20
+178,Cardiff,United Kingdom,31,179,21,60,20
+131,Thessaloniki,Greece,34,123,22,80,140
+324,Medina,Saudi Arabia,28,265,16,58,20
+75,"San Francisco, CA",United States of America,32,160,26,84,30
+353,Maribor,Slovenia,24,354,15,38,0
+104,Vilnius,Lithuania,45,19,24,113,0
+483,"Riverside, CA",United States of America,31,198,10,35,10
+295,"Anchorage, AK",United States of America,21,404,17,34,-10
+43,Ahmedabad,India,23,368,29,73,-30
+363,Trondheim,Norway,16,457,15,33,-10
+287,Funchal,Portugal,22,388,17,52,10
+249,Dortmund,Germany,28,266,19,46,20
+408,Bern,Switzerland,22,382,13,36,-10
+219,Brest,France,32,170,19,64,20
+1,Barranquilla,Colombia,45,16,36,130,-20
+120,Hong Kong,Hong Kong,30,211,23,71,-50
+383,Jeddah,Saudi Arabia,14,472,14,26,0
+109,Lisbon,Portugal,26,294,23,79,0
+108,Munich,Germany,32,155,23,80,20
+316,Bilbao,Spain,15,467,16,24,-10
+427,Leiden,Netherlands,26,315,13,33,-40
+270,Monterrey,Mexico,37,72,18,80,70
+376,Oxford,United Kingdom,38,63,14,61,10
+337,Modena,Italy,24,352,16,41,0
+404,"Milwaukee, WI",United States of America,18,432,13,30,10
+102,Hat Yai,Thailand,40,41,24,76,20
+127,Nottingham,United Kingdom,35,92,23,82,40
+191,Cairo,Egypt,18,433,20,43,-70
+154,Mersin,Turkey,35,106,21,58,-10
+97,Salzburg,Austria,37,71,25,78,30
+291,Montpellier,France,30,221,17,62,20
+327,Perth,Australia,25,330,16,55,20
+111,Dusseldorf,Germany,30,209,23,66,20
+429,"Rochester, NY",United States of America,17,452,12,19,10
+358,Bonn,Germany,32,168,15,48,40
+113,Lyon,France,31,202,23,77,60
+181,Zaragoza,Spain,21,407,21,37,30
+82,Nicosia,Cyprus,41,37,26,99,10
+171,Malmo,Sweden,20,413,21,48,20
+73,George Town,Malaysia,40,45,26,75,10
+275,Lille,France,27,280,18,61,0
+344,Ar-Rayyan,Qatar,17,453,16,26,-20
+205,Hsinchu,Taiwan,33,139,20,71,30
+406,"Austin, TX",United States of America,27,284,13,45,10
+5,London,United Kingdom,32,150,33,113,40
+152,Bradford,United Kingdom,35,98,22,80,30
+149,Montreal,Canada,28,251,22,70,50
+448,"Long Beach, CA",United States of America,29,243,11,36,10
+428,Hawalli,Kuwait,21,402,12,36,0
+259,The Hague,Netherlands,31,204,18,53,30
+281,"Miami, FL",United States of America,33,136,17,62,30
+305,Norwich,United Kingdom,36,86,17,60,10
+236,Bielefeld,Germany,34,122,19,55,30
+183,Bloemfontein,South Africa,27,287,21,51,-10
+411,Ostrava,Czechia,21,394,13,31,30
+435,"Charlotte, NC",United States of America,25,321,12,40,10
+36,Puebla,Mexico,30,218,29,73,60
+354,Essen,Germany,36,84,15,56,30
+243,Oslo,Norway,24,342,19,63,20
+307,Ottawa,Canada,26,298,16,55,20
+453,"Orlando, FL",United States of America,23,376,11,28,10
+194,Abu Dhabi,United Arab Emirates,21,403,20,38,-10
+300,Santa Cruz de Tenerife,Spain,25,333,17,42,10
+388,Buraydah,Saudi Arabia,10,494,14,12,-10
+32,Ho Chi Minh,Vietnam,30,219,30,96,40
+96,Nantes,France,32,174,25,96,10
+434,Brescia,Italy,24,349,12,34,20
+11,Kumamoto,Japan,49,4,32,149,-10
+133,Bristol,United Kingdom,34,118,22,87,10
+271,"New Orleans, LA",United States of America,26,319,18,50,40
+487,"Tulsa, OK",United States of America,13,478,10,13,-10
+207,Alicante,Spain,18,440,20,37,0
+232,Tijuana,Mexico,33,138,19,57,20
+34,Kaohsiung,Taiwan,26,316,30,65,10
+122,New Delhi,India,33,147,23,76,10
+282,Tampere,Finland,20,410,17,33,-10
+47,Fortaleza,Brazil,37,76,28,99,30
+413,Wollongong,Australia,21,399,13,30,10
+65,Guadalajara,Mexico,42,28,27,103,40
+214,Reykjavík,Iceland,27,285,20,70,10
+477,"Omaha, NE",United States of America,12,486,10,14,0
+350,Ajman,United Arab Emirates,19,426,15,32,40
+381,Tours,France,23,372,14,40,20
+25,"New York, NY",United States of America,30,222,31,98,40
+432,"Houston, TX",United States of America,31,194,12,49,10
+218,"Chicago, IL",United States of America,31,187,19,65,40
+418,Namur,Belgium,25,338,13,34,10
+59,Plovdiv,Bulgaria,48,6,27,107,0
+268,Plymouth,United Kingdom,31,181,18,56,0
+31,Chennai,India,29,236,30,94,10
+247,Newcastle,Australia,27,278,19,52,10
+168,Aberdeen,United Kingdom,37,73,21,67,-10
+333,Kosice,Slovakia,32,154,16,55,20
+385,Seberang Perai,Malaysia,28,253,14,49,0
+449,Mons,Belgium,22,385,11,29,10
+37,Athens,Greece,34,114,29,111,30
+463,"Virginia Beach, VA",United States of America,16,462,11,16,0
+208,Ankara,Turkey,40,43,20,91,10
+116,Chiang Mai,Thailand,37,78,23,72,30
+252,Bournemouth,United Kingdom,32,165,18,59,10
+398,Prato,Italy,30,223,14,50,10
+19,Fukuoka,Japan,42,29,31,117,20
+169,Hannover,Germany,34,116,21,69,30
+210,Adana,Turkey,34,124,20,60,-10
+222,Klaipeda,Lithuania,27,275,19,61,-30
+301,Maipu,Chile,26,317,17,59,-20
+142,Turku,Finland,26,311,22,54,10
+136,Amsterdam,Netherlands,26,296,22,61,80
+202,London,Canada,28,264,20,60,30
+100,Manchester,United Kingdom,32,157,24,94,40
+454,"San Diego, CA",United States of America,24,350,11,34,10
+107,Sheffield,United Kingdom,39,56,23,91,20
+401,"Syracuse, NY",United States of America,13,477,14,16,10
+391,Kocaeli,Turkey,27,281,14,47,10
+267,"Washington, DC",United States of America,25,323,18,59,30
+87,Geneva,Switzerland,39,50,25,111,10
+177,Coventry,United Kingdom,33,134,21,70,10
+269,Pescara,Italy,25,325,18,48,10
+420,"Atlanta, GA",United States of America,31,199,13,49,20
+422,"Portland, ME",United States of America,21,395,13,25,20
+481,Almere,Netherlands,14,475,10,15,0
+499,"Little Rock, AR",United States of America,13,481,9,16,0
+179,Munster,Germany,34,131,21,57,40
+308,Taif,Saudi Arabia,9,499,16,16,-20
+145,Khon Kaen,Thailand,34,129,22,66,0
+393,Innsbruck,Austria,23,370,14,30,20
+166,Lublin,Poland,38,62,21,88,0
+10,Dublin,Ireland,47,10,32,155,40
+172,Palermo,Italy,41,32,21,85,-20
+403,Khor Fakkan,United Arab Emirates,9,497,13,10,-10
+297,Ljubljana,Slovenia,33,143,17,60,10
+266,Burgas,Bulgaria,32,173,18,54,-10
+338,Brasilia,Brazil,25,324,16,46,10
+46,Helsinki,Finland,30,214,28,87,30
+284,Toulon,France,31,183,17,64,10
+147,Hull,United Kingdom,46,12,22,96,10
+101,Madrid,Spain,21,400,24,64,10
+405,"Cape Coral, FL",United States of America,29,233,13,38,10
+110,Catania,Italy,39,55,23,94,30
+356,Lugano,Switzerland,31,182,15,60,-10
+190,Orleans,France,27,289,20,66,10
+450,"Cleveland, OH",United States of America,15,469,11,17,10
+132,Vitoria-Gasteiz,Spain,22,379,22,44,20
+325,Riyadh,Saudi Arabia,28,267,16,58,20
+126,Santiago,Chile,36,89,23,100,10
+28,Sapporo,Japan,35,100,30,89,30
