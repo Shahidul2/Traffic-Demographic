@@ -37,7 +37,7 @@ python scraper.py
 5. You will have the required 'traffic_index_data.csv' on your local machine.
 Else get the file from here: https://github.com/Shahidul2/Traffic-Demographic/blob/main/traffic_index_data.csv
 
-7. Run the data processing notebook for the procesesed CSV file primed for viz.
+7. Run the data processing notebook for the procesesed CSV file primed for viz. Dont forget to change the read_csv path to your desired directory
 ```bash
 pip install jupyter
 jupyter nbconvert --execute "Data Processing.ipynb"
