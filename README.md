@@ -11,9 +11,9 @@ The goal of this project was to gather worldwide traffic congestion data from [t
 Visit the public dashboard from [here](https://public.tableau.com/app/profile/shahidul.islam5785/viz/2024TrafficDataViz/2024TrafficData)
 
 ## Findings from the Dashboard
-1. 'Avg travel time' had high correlation with the 'Rank' while 'Hour lost per year' having slight influence.
-2. Philipines was the most congested city in Asia with Saudi Arabia being the least one.
-3. In Europe, Romanian people lost most hours on road per year
+1. 'Avg travel time' had high correlation with the 'Rank' while 'Hour lost per year' had slight influence.
+2. Philipines was the most congested country in Asia with Saudi Arabia being the least one.
+3. In Europe, Romanian people lost most hours on road per year.
 4. Mauritus had improved their traffic situation the most, meanwhile the situation in Greece plummeted the worst.
 
 ## Build from sources
